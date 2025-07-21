@@ -7,6 +7,7 @@ import {
   Platform,
   Pressable,
   TouchableOpacity,
+  DimensionValue,
 } from 'react-native';
 import posColors, {
   posColorsLight,
@@ -31,6 +32,7 @@ interface VocabCardProps {
   onPress?: () => void;
   vocabKey?: string;
   cardIndex?: number;
+  minWidth?: DimensionValue;
 }
 
 const VocabCard: React.FC<VocabCardProps> = ({
@@ -39,6 +41,7 @@ const VocabCard: React.FC<VocabCardProps> = ({
   onPress,
   vocabKey,
   cardIndex,
+  minWidth,
 }) => {
   const {
     __pos,
@@ -165,6 +168,16 @@ const VocabCard: React.FC<VocabCardProps> = ({
           { borderColor, borderLeftColor, borderTopColor, borderRadius },
           (__consonant || __vowel || __pos === 'number') && {},
           isMobile ? styles.mobile : styles.desktop,
+          minWidth !== undefined
+            ? {
+                minWidth:
+                  typeof minWidth === 'number' ||
+                  (typeof minWidth === 'string' &&
+                    (minWidth.endsWith('%') || minWidth === 'auto'))
+                    ? minWidth
+                    : undefined,
+              }
+            : {},
         ]}
       >
         {/* Top placeholder text */}
@@ -290,6 +303,7 @@ const VocabCard: React.FC<VocabCardProps> = ({
           isMobile ? styles.mobileCard : styles.desktopCard,
           { borderColor, borderLeftColor, borderTopColor },
           isHovered && styles.hoveredCard,
+          minWidth ? { minWidth } : {},
         ]}
       >
         {/* Top part of speech bar anchored to top, overlapping border radius */}

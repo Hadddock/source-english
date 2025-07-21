@@ -143,6 +143,15 @@ export default function RootLayout() {
                       };
                     }}
                   />
+                  <Stack.Screen
+                    name="picker"
+                    options={{
+                      header: () => (
+                        <CustomNav headerHeight={headerHeight} title="" />
+                      ),
+                      gestureEnabled: true,
+                    }}
+                  />
                 </Stack>
               </NotesProvider>
             </ThemeProvider>
