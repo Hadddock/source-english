@@ -6127,13 +6127,16 @@
   },
 
   {
-    "whiteboard": {
+    "board": {
       "__pos": "noun",
       "__tags": ["class"],
-      "word": "whiteboard",
-      "plural": "whiteboards",
+      "word": "board",
+      "plural": "boards",
       "translation_note": "",
-      "examples": ["The teacher writes on the whiteboard."]
+      "examples": [
+        "The teacher writes on the board.",
+        "I use a marker on the board."
+      ]
     }
   },
   {
