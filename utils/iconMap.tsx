@@ -544,6 +544,8 @@ import FirstIcon from '@/assets/icons/licensed/first.svg'; // Example for a cust
 import LastIcon from '@/assets/icons/licensed/last.svg'; // Example for a custom icon
 import SeattleIcon from '@/assets/icons/licensed/seattle.svg'; // Example for a custom icon
 import WashingtonIcon from '@/assets/icons/licensed/washington.svg'; // Example for a custom icon
+import SpecificIcon from '@/assets/icons/licensed/specific.svg'; // Example for a custom icon
+import GeneralIcon from '@/assets/icons/licensed/general.svg'; // Example for a custom icon
 
 export const TextIcon: React.FC<{
   text: string;
@@ -1243,6 +1245,8 @@ export const iconMap: Record<string, React.FC<any>> = {
   washington: WashingtonIcon, // Example for a custom icon
   Washington: WashingtonIcon, // Example for a custom icon
   'or (conjunction)': OrIcon, // Example for a custom icon
+  specific: SpecificIcon,
+  general: GeneralIcon,
 
   // ...etc
 };

@@ -10129,85 +10129,105 @@
         "He didn't know which shirt to wear."
       ]
     }
-  }
-  ,
-    {
-      "Britain": {
-        "__pos": "proper noun",
-        "__tags": ["countries"],
-        "__synonyms": ["United Kingdom", "UK", "Great Britain"],
-        "__abbreviations": ["UK"],
-        "synonym_notes": {
-          "United Kingdom": "Formal name for Britain.",
-          "UK": "Common abbreviation for United Kingdom.",
-          "Great Britain": "Refers to the island containing England, Scotland, and Wales."
-        },
-        "word": "Britain",
-        "translation_note": "",
-        "examples": [
-          "Britain is an island nation in Europe.",
-          "She visited Britain last summer."
-        ]
-      }
-    },
-    {
-      "complicated": {
-        "__pos": "adjective",
-        "__tags": ["adjectives"],
-        "word": "complicated",
-        "translation_note": "",
-        "examples": [
-          "The instructions are complicated.",
-          "English spelling can be complicated."
-        ]
-      }
-    },
-    {
-      "first": {
-        "__pos": "adjective",
-        "__tags": ["order"],
-        "word": "first",
-        "translation_note": "",
-        "examples": [
-          "Sunday is the first day of the week.",
-          "She finished in first place."
-        ]
-      }
-    },
-    {
-      "last": {
-        "__pos": "adjective",
-        "__tags": ["order"],
-        "word": "last",
-        "translation_note": "",
-        "examples": [
-          "December is the last month of the year.",
-          "He was the last to arrive."
-        ]
-      }
-    },
-    {
-      "Seattle": {
-        "__pos": "proper noun",
-        "__tags": ["cities"],
-        "word": "Seattle",
-        "translation_note": "",
-        "examples": [
-          "Seattle is a city in Washington.",
-          "She lives in Seattle."
-        ]
-      }
-    },
-    {
-      "Washington": {
-        "__pos": "proper noun",
-        "__tags": ["states", "places"],
-        "word": "Washington",
-        "translation_note": "",
-        "examples": [
-          "Washington is a state in the United States.",
-          "Seattle is in Washington."
-        ]
-      }
+  },
+  {
+    "Britain": {
+      "__pos": "proper noun",
+      "__tags": ["countries"],
+      "__synonyms": ["United Kingdom", "UK", "Great Britain"],
+      "__abbreviations": ["UK"],
+      "synonym_notes": {
+        "United Kingdom": "Formal name for Britain.",
+        "UK": "Common abbreviation for United Kingdom.",
+        "Great Britain": "Refers to the island containing England, Scotland, and Wales."
+      },
+      "word": "Britain",
+      "translation_note": "",
+      "examples": [
+        "Britain is an island nation in Europe.",
+        "She visited Britain last summer."
+      ]
     }
+  },
+  {
+    "complicated": {
+      "__pos": "adjective",
+      "__tags": ["adjectives"],
+      "word": "complicated",
+      "translation_note": "",
+      "examples": [
+        "The instructions are complicated.",
+        "English spelling can be complicated."
+      ]
+    }
+  },
+  {
+    "first": {
+      "__pos": "adjective",
+      "__tags": ["order"],
+      "word": "first",
+      "translation_note": "",
+      "examples": [
+        "Sunday is the first day of the week.",
+        "She finished in first place."
+      ]
+    }
+  },
+  {
+    "last": {
+      "__pos": "adjective",
+      "__tags": ["order"],
+      "word": "last",
+      "translation_note": "",
+      "examples": [
+        "December is the last month of the year.",
+        "He was the last to arrive."
+      ]
+    }
+  },
+  {
+    "Seattle": {
+      "__pos": "proper noun",
+      "__tags": ["cities"],
+      "word": "Seattle",
+      "translation_note": "",
+      "examples": ["Seattle is a city in Washington.", "She lives in Seattle."]
+    }
+  },
+  {
+    "Washington": {
+      "__pos": "proper noun",
+      "__tags": ["states", "places"],
+      "word": "Washington",
+      "translation_note": "",
+      "examples": [
+        "Washington is a state in the United States.",
+        "Seattle is in Washington."
+      ]
+    }
+  },
+  {
+    "specific": {
+      "__pos": "adjective",
+      "__tags": ["adjectives"],
+      "word": "specific",
+      "translation_note": "",
+      "examples": [
+        "I need a specific answer.",
+        "She asked for specific details."
+      ]
+    }
+  },
+  {
+    "general": {
+      "__pos": "adjective",
+      "__tags": ["adjectives"],
+      "word": "general",
+      "translation_note": "",
+      "examples": [
+        "In general, I prefer tea over coffee.",
+        "She has a general understanding of the topic."
+      ]
+    }
+  }
 ]
