@@ -538,6 +538,12 @@ import PictureIcon from '@/assets/icons/licensed/picture.svg'; // Example for a 
 import LightIcon from '@/assets/icons/licensed/light.svg'; // Example for a custom icon
 import FineIcon from '@/assets/icons/licensed/fine.svg'; // Example for a custom icon
 import LazyIcon from '@/assets/icons/licensed/lazy.svg'; // Example for a custom icon
+import BritainIcon from '@/assets/icons/licensed/britain.svg'; // Example for a custom icon
+import ComplicatedIcon from '@/assets/icons/licensed/complicated.svg'; // Example for a custom icon
+import FirstIcon from '@/assets/icons/licensed/first.svg'; // Example for a custom icon
+import LastIcon from '@/assets/icons/licensed/last.svg'; // Example for a custom icon
+import SeattleIcon from '@/assets/icons/licensed/seattle.svg'; // Example for a custom icon
+import WashingtonIcon from '@/assets/icons/licensed/washington.svg'; // Example for a custom icon
 
 export const TextIcon: React.FC<{
   text: string;
@@ -1227,6 +1233,16 @@ export const iconMap: Record<string, React.FC<any>> = {
 
   'all right_(adjective)': FineIcon, // Example for a custom icon
   'all right (adjective)': FineIcon, // Example for a custom icon
+  Britain: BritainIcon, // Example for a custom icon
+  britain: BritainIcon, // Example for a custom icon
+  complicated: ComplicatedIcon, // Example for a custom icon
+  first: FirstIcon, // Example for a custom icon
+  last: LastIcon, // Example for a custom icon
+  seattle: SeattleIcon, // Example for a custom icon
+  Seattle: SeattleIcon, // Example for a custom icon
+  washington: WashingtonIcon, // Example for a custom icon
+  Washington: WashingtonIcon, // Example for a custom icon
+  'or (conjunction)': OrIcon, // Example for a custom icon
 
   // ...etc
 };
