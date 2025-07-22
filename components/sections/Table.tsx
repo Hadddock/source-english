@@ -21,6 +21,7 @@ interface TableProps {
 }
 
 const MIN_COL_WIDTH = 120; // Minimum column width in pixels
+const MAX_COL_WIDTH = 300; // Maximum column width in pixels
 
 const Table: React.FC<TableProps> = ({ headers, entries }) => {
   const numCols = headers.length;
@@ -42,7 +43,13 @@ const Table: React.FC<TableProps> = ({ headers, entries }) => {
         <View style={[styles.row, styles.rowEven]}>
           {headers.map((header, idx) => (
             <View
-              style={[styles.headerCell, { minWidth: MIN_COL_WIDTH }]}
+              style={[
+                styles.headerCell, 
+                { 
+                  minWidth: MIN_COL_WIDTH, 
+                  maxWidth: MAX_COL_WIDTH 
+                }
+              ]}
               key={idx}
             >
               <ReadableText
@@ -67,7 +74,13 @@ const Table: React.FC<TableProps> = ({ headers, entries }) => {
           >
             {row.map((entry, colIdx) => (
               <View
-                style={[styles.cell, { minWidth: MIN_COL_WIDTH }]}
+                style={[
+                  styles.cell, 
+                  { 
+                    minWidth: MIN_COL_WIDTH, 
+                    maxWidth: MAX_COL_WIDTH 
+                  }
+                ]}
                 key={colIdx}
               >
                 {entry.text.split('\n').map((line, i) => (
@@ -86,7 +99,13 @@ const Table: React.FC<TableProps> = ({ headers, entries }) => {
                 .fill(null)
                 .map((_, idx) => (
                   <View
-                    style={[styles.cell, { minWidth: MIN_COL_WIDTH }]}
+                    style={[
+                      styles.cell, 
+                      { 
+                        minWidth: MIN_COL_WIDTH, 
+                        maxWidth: MAX_COL_WIDTH 
+                      }
+                    ]}
                     key={`empty-${idx}`}
                   />
                 ))}
