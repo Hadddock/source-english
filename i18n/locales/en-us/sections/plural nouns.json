@@ -1,0 +1,91 @@
+[
+  {
+    "_id": "plural_nouns_header",
+    "__lessons": ["plural nouns"],
+    "__order": 1,
+    "__type": "header",
+    "text": "Plural Nouns Rules"
+  },
+  {
+    "_id": "plural_nouns_intro",
+    "__lessons": ["plural nouns"],
+    "__order": 2,
+    "__type": "paragraph",
+    "text": "In English, most nouns can be made plural by adding -s or -es to the end. However, the exact rule depends on how the word ends. This table shows the most common pluralization patterns."
+  },
+  {
+    "_id": "plural_nouns_table",
+    "__lessons": ["plural nouns"],
+    "__order": 3,
+    "__type": "table",
+    "__headers": [
+      { "text": "Word Ending", "__type": "text" },
+      { "text": "Rule", "__type": "text" },
+      { "text": "Examples", "__type": "text" }
+    ],
+    "__entries": [
+      { "__type": "text", "text": "Most words" },
+      { "__type": "text", "text": "Add -s" },
+      { "__type": "text", "text": "cat → cats, book → books, car → cars" },
+
+      { "__type": "text", "text": "-s, -ss, -sh, -ch, -x, -z, -o" },
+      { "__type": "text", "text": "Add -es" },
+      {
+        "__type": "text",
+        "text": "bus → buses, class → classes, dish → dishes, watch → watches, box → boxes, quiz → quizzes, tomato → tomatoes,"
+      },
+
+      { "__type": "text", "text": "-y (after consonant)" },
+      { "__type": "text", "text": "Change -y to -ies" },
+      {
+        "__type": "text",
+        "text": "baby → babies, city → cities, story → stories"
+      }
+    ]
+  },
+  {
+    "_id": "plural_nouns_irregular_subheader",
+    "__lessons": ["plural nouns"],
+    "__order": 4,
+    "__type": "subheader",
+    "text": "Irregular Plurals"
+  },
+  {
+    "_id": "plural_nouns_irregular_paragraph",
+    "__lessons": ["plural nouns"],
+    "__order": 5,
+    "__type": "paragraph",
+    "text": "Some nouns have irregular plural forms that don't follow the standard rules. These must be memorized."
+  },
+  {
+    "_id": "plural_nouns_irregular_table",
+    "__lessons": ["plural nouns"],
+    "__order": 6,
+    "__type": "table",
+    "__headers": [
+      { "text": "Singular (1)", "__type": "text" },
+      { "text": "Plural (2+)", "__type": "text" }
+    ],
+    "__entries": [
+      { "__type": "text", "text": "person" },
+      { "__type": "text", "text": "people" },
+      { "__type": "text", "text": "child" },
+      { "__type": "text", "text": "children" },
+
+      { "__type": "text", "text": "man" },
+      { "__type": "text", "text": "men" },
+
+      { "__type": "text", "text": "woman" },
+      { "__type": "text", "text": "women" },
+
+      { "__type": "text", "text": "foot" },
+      { "__type": "text", "text": "feet" },
+
+      { "__type": "text", "text": "tooth" },
+      { "__type": "text", "text": "teeth" },
+
+      { "__type": "text", "text": "fish" },
+      { "__type": "text", "text": "fish" }
+    ]
+  }
+]

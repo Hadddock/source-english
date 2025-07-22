@@ -476,6 +476,16 @@
     }
   },
   {
+    "plural nouns": {
+      "name": "plural nouns",
+      "__tags": ["grammar", "nouns", "plurals"],
+      "__type": "lesson",
+      "__order": 27.5,
+      "__hidden": false,
+      "intro": "Learn the rules for making nouns plural in English by understanding how different word endings change."
+    }
+  },
+  {
     "irregular plural nouns vocab": {
       "name": "irregular plural nouns vocab",
       "__tags": ["irregular plurals"],
@@ -497,6 +507,7 @@
       }
     }
   },
+
   {
     "classroom vocab": {
       "name": "classroom vocab",
