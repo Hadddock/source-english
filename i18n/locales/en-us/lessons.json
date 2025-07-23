@@ -535,6 +535,32 @@
   },
 
   {
+    "feelings vocab": {
+      "name": "feelings vocab",
+      "__tags": ["feelings"],
+      "__type": "vocabulary",
+      "__order": 5.4,
+      "__hidden": false,
+      "__vocab": {
+        "feelings": [
+          "feel",
+          "happy",
+          "sad",
+          "angry",
+          "scared",
+          "confused",
+          "hungry",
+          "tired",
+          "fine",
+          "sick",
+          "hot",
+          "cold"
+        ]
+      }
+    }
+  },
+
+  {
     "colors vocab": {
       "name": "colors vocab",
       "__tags": ["colors"],

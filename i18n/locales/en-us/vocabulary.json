@@ -9885,6 +9885,39 @@
       "examples": ["I am hungry.", "He is hungry after school."]
     }
   },
+  {
+    "angry": {
+      "__pos": "adjective",
+      "__tags": ["feelings", "word"],
+      "word": "angry",
+      "translation_note": "",
+      "examples": ["I am angry with him.", "She is angry about the mistake."]
+    }
+  },
+  {
+    "scared": {
+      "__pos": "adjective",
+      "__tags": ["feelings", "word"],
+      "word": "scared",
+      "translation_note": "",
+      "examples": [
+        "I am scared of the dark.",
+        "She felt scared during the movie."
+      ]
+    }
+  },
+  {
+    "confused": {
+      "__pos": "adjective",
+      "__tags": ["feelings", "word"],
+      "word": "confused",
+      "translation_note": "",
+      "examples": [
+        "I am confused about the homework.",
+        "She looked confused by the question."
+      ]
+    }
+  },
 
   {
     "irregular": {

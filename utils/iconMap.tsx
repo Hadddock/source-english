@@ -299,6 +299,9 @@ import DoorIcon from '@/assets/icons/licensed/door.svg';
 import FitIcon from '@/assets/icons/licensed/fit.svg';
 import FruitIcon from '@/assets/icons/licensed/fruit.svg';
 import HappyIcon from '@/assets/icons/licensed/happy.svg';
+import AngryIcon from '@/assets/icons/licensed/angry.svg';
+import ConfusedIcon from '@/assets/icons/licensed/confused.svg';
+import ScaredIcon from '@/assets/icons/licensed/scared.svg';
 import HelloIcon from '@/assets/icons/licensed/hello.svg';
 import JobIcon from '@/assets/icons/licensed/job.svg';
 import JuiceIcon from '@/assets/icons/licensed/juice.svg';
@@ -1247,6 +1250,9 @@ export const iconMap: Record<string, React.FC<any>> = {
   'or (conjunction)': OrIcon, // Example for a custom icon
   specific: SpecificIcon,
   general: GeneralIcon,
+  angry: AngryIcon,
+  confused: ConfusedIcon,
+  scared: ScaredIcon,
 
   // ...etc
 };
