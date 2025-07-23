@@ -41,7 +41,7 @@
     "__lessons": ["articles"],
     "__order": 5.1,
     "__type": "vocabularyCarousel",
-    "__words": ["a", "an", "vowel"]
+    "__words": ["general", "singular", "a", "consonant", "an", "vowel"]
   },
   {
     "_id": "articles_a_an_examples",
@@ -78,7 +78,7 @@
     "__lessons": ["articles"],
     "__order": 8.1,
     "__type": "vocabularyCarousel",
-    "__words": ["the"]
+    "__words": ["specific", "singular", "plural", "the"]
   },
   {
     "_id": "articles_the_examples",
@@ -93,7 +93,7 @@
       { "__type": "text", "text": "the" },
       {
         "__type": "text",
-        "text": "the sun, the teacher, the book on the table"
+        "text": "the sun, the teacher, the books on the table"
       }
     ]
   },

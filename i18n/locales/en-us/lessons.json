@@ -470,8 +470,9 @@
       "__hidden": false,
       "__lesson": "articles",
       "__vocab": {
-        "indefinite articles": ["a_(article)", "an"],
-        "definite articles": ["the"]
+        "display": ["a_(article)", "an", "the"],
+        "indefinite articles": ["general", "a_(article)", "an"],
+        "definite articles": ["specific", "the"]
       }
     }
   },
