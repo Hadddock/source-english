@@ -1,5 +1,12 @@
 import CardsIcon from '@/assets/icons/licensed/cards.svg';
 import LessonIcon from '@/assets/icons/licensed/lesson.svg';
+import GrandparentIcon from '@/assets/icons/licensed/grandparent.svg';
+import GrandfatherIcon from '@/assets/icons/licensed/grandfather.svg';
+import GrandmotherIcon from '@/assets/icons/licensed/grandmother.svg';
+import GrandchildIcon from '@/assets/icons/licensed/grandchild.svg';
+import NieceIcon from '@/assets/icons/licensed/niece.svg';
+import NephewIcon from '@/assets/icons/licensed/nephew.svg';
+import CousinIcon from '@/assets/icons/licensed/cousin.svg';
 import AppleIcon from '@/assets/icons/licensed/apple.svg';
 import RiceIcon from '@/assets/icons/licensed/rice.svg';
 import BreadIcon from '@/assets/icons/licensed/bread.svg';
@@ -1253,6 +1260,13 @@ export const iconMap: Record<string, React.FC<any>> = {
   angry: AngryIcon,
   confused: ConfusedIcon,
   scared: ScaredIcon,
+  grandfather: GrandfatherIcon, // Example for a custom icon
+  grandmother: GrandmotherIcon, // Example for a custom icon
+  grandparent: GrandparentIcon, // Example for a custom icon
+  grandchild: GrandchildIcon, // Example for a custom icon
+  niece: NieceIcon, // Example for a custom icon
+  nephew: NephewIcon, // Example for a custom icon
+  cousin: CousinIcon, // Example for a custom icon
 
   // ...etc
 };

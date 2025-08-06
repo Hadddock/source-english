@@ -44,11 +44,11 @@ const Table: React.FC<TableProps> = ({ headers, entries }) => {
           {headers.map((header, idx) => (
             <View
               style={[
-                styles.headerCell, 
-                { 
-                  minWidth: MIN_COL_WIDTH, 
-                  maxWidth: MAX_COL_WIDTH 
-                }
+                styles.headerCell,
+                {
+                  minWidth: MIN_COL_WIDTH,
+                  maxWidth: MAX_COL_WIDTH,
+                },
               ]}
               key={idx}
             >
@@ -75,11 +75,11 @@ const Table: React.FC<TableProps> = ({ headers, entries }) => {
             {row.map((entry, colIdx) => (
               <View
                 style={[
-                  styles.cell, 
-                  { 
-                    minWidth: MIN_COL_WIDTH, 
-                    maxWidth: MAX_COL_WIDTH 
-                  }
+                  styles.cell,
+                  {
+                    minWidth: MIN_COL_WIDTH,
+                    maxWidth: MAX_COL_WIDTH,
+                  },
                 ]}
                 key={colIdx}
               >
@@ -100,11 +100,11 @@ const Table: React.FC<TableProps> = ({ headers, entries }) => {
                 .map((_, idx) => (
                   <View
                     style={[
-                      styles.cell, 
-                      { 
-                        minWidth: MIN_COL_WIDTH, 
-                        maxWidth: MAX_COL_WIDTH 
-                      }
+                      styles.cell,
+                      {
+                        minWidth: MIN_COL_WIDTH,
+                        maxWidth: MAX_COL_WIDTH,
+                      },
                     ]}
                     key={`empty-${idx}`}
                   />

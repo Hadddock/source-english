@@ -10262,5 +10262,108 @@
         "She has a general understanding of the topic."
       ]
     }
+  },
+  {
+    "grandparent": {
+      "__pos": "noun",
+      "__tags": ["family", "people"],
+      "__synonyms": ["grandpa", "grandma"],
+      "synonym_notes": {
+        "grandpa": "'Grandparent' is more formal than 'grandpa'.",
+        "grandma": "'Grandparent' is more formal than 'grandma'."
+      },
+      "word": "grandparent",
+      "plural": "grandparents",
+      "examples": [
+        "My grandparent is very wise.",
+        "She loves spending time with her grandparent."
+      ]
+    }
+  },
+  {
+    "grandfather": {
+      "__pos": "noun",
+      "__tags": ["family", "people"],
+      "__synonyms": ["grandpa", "granddad"],
+      "__gender": "masculine",
+      "word": "grandfather",
+      "plural": "grandfathers",
+      "synonym_notes": {
+        "grandpa": "'Grandfather' is more formal than 'grandpa'.",
+        "granddad": "'Grandfather' is more formal than 'granddad'."
+      },
+      "examples": [
+        "My grandfather is very wise.",
+        "She loves spending time with her grandfather."
+      ]
+    }
+  },
+  {
+    "grandmother": {
+      "__pos": "noun",
+      "__tags": ["family", "people"],
+      "__synonyms": ["grandma"],
+      "__gender": "feminine",
+      "synonym_notes": {
+        "grandma": "'Grandmother' is more formal than 'grandma'."
+      },
+      "word": "grandmother",
+      "plural": "grandmothers",
+      "examples": [
+        "My grandmother makes the best cookies.",
+        "She visits her grandmother every weekend."
+      ]
+    }
+  },
+  {
+    "grandchild": {
+      "__pos": "noun",
+      "__tags": ["family", "people"],
+      "__synonyms": ["grandkid"],
+      "synonym_notes": {
+        "grandkid": "'Grandchild' is more formal than 'grandkid'."
+      },
+      "word": "grandchild",
+      "plural": "grandchildren",
+      "examples": [
+        "My grandchild is learning to walk.",
+        "She has two grandchildren."
+      ]
+    }
+  },
+  {
+    "niece": {
+      "__pos": "noun",
+      "__tags": ["family", "people"],
+      "__synonyms": ["niece"],
+      "__gender": "feminine",
+      "word": "niece",
+      "plural": "nieces",
+      "examples": ["My niece is very talented.", "She has two nieces."]
+    }
+  },
+  {
+    "nephew": {
+      "__pos": "noun",
+      "__tags": ["family", "people"],
+      "__synonyms": ["nephew"],
+      "__gender": "masculine",
+      "word": "nephew",
+      "plural": "nephews",
+      "examples": ["My nephew loves to play soccer.", "She has one nephew."]
+    }
+  },
+  {
+    "cousin": {
+      "__pos": "noun",
+      "__tags": ["family", "people"],
+      "__synonyms": ["cousin"],
+      "word": "cousin",
+      "plural": "cousins",
+      "examples": [
+        "My cousin is visiting this weekend.",
+        "She has three cousins."
+      ]
+    }
   }
 ]

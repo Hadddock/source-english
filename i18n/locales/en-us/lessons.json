@@ -705,7 +705,17 @@
           "spouse",
           "married"
         ],
-        "extended family": ["aunt", "uncle"]
+        "extended family": [
+          "aunt",
+          "uncle",
+          "niece",
+          "nephew",
+          "cousin",
+          "grandfather",
+          "grandmother",
+          "grandparent",
+          "grandchild"
+        ]
       }
     }
   },
