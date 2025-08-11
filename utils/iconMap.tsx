@@ -1,5 +1,7 @@
 import CardsIcon from '@/assets/icons/licensed/cards.svg';
 import LessonIcon from '@/assets/icons/licensed/lesson.svg';
+import EnglishIcon from '@/assets/icons/licensed/english.svg';
+import FavoriteIcon from '@/assets/icons/licensed/favorite.svg';
 import GrandparentIcon from '@/assets/icons/licensed/grandparent.svg';
 import GrandfatherIcon from '@/assets/icons/licensed/grandfather.svg';
 import GrandmotherIcon from '@/assets/icons/licensed/grandmother.svg';
@@ -1267,6 +1269,9 @@ export const iconMap: Record<string, React.FC<any>> = {
   niece: NieceIcon, // Example for a custom icon
   nephew: NephewIcon, // Example for a custom icon
   cousin: CousinIcon, // Example for a custom icon
+  English: EnglishIcon,
+  english: EnglishIcon, // Example for a custom icon
+  favorite: FavoriteIcon, // Example for a custom icon
 
   // ...etc
 };

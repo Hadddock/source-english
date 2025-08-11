@@ -3293,6 +3293,27 @@
     }
   },
   {
+    "favorite": {
+      "__pos": "adjective",
+      "__tags": ["adjectives"],
+
+      "__show_word": true,
+      "word": "favorite",
+      "translation_note": "",
+      "examples": ["Pizza is my favorite food.", "My favorite color is blue."]
+    }
+  },
+  {
+    "English": {
+      "__pos": "proper noun",
+      "__tags": ["languages"],
+      "word": "English",
+      "translation_note": "",
+      "examples": ["I speak English.", "English is an international language."]
+    }
+  },
+
+  {
     "my": {
       "__pos": "adjective",
       "__tags": ["possessive adjectives", "possessive adjectives singular"],
@@ -4819,6 +4840,20 @@
       "examples": ["I wear a watch on my wrist."]
     }
   },
+  {
+    "adjective": {
+      "__pos": "noun",
+      "__tags": ["grammar", "parts of speech"],
+      "__icon_text": "adj",
+      "word": "adjective",
+      "plural": "adjectives",
+      "translation_note": "",
+      "examples": [
+        "An adjective describes a noun.",
+        "In 'big dog', the word 'big' is an adjective."
+      ]
+    }
+  },
 
   {
     "a_(article)": {
@@ -6219,6 +6254,20 @@
     }
   },
   {
+    "verb": {
+      "__pos": "noun",
+      "__tags": ["grammar", "parts of speech"],
+      "__icon_text": "verb",
+      "word": "verb",
+      "plural": "verbs",
+      "translation_note": "",
+      "examples": [
+        "A verb is an action word or a word that shows being.",
+        "Words like 'run', 'think', and 'is' are verbs."
+      ]
+    }
+  },
+  {
     "vehicle": {
       "__pos": "noun",
       "__tags": ["vehicle"],
@@ -6916,6 +6965,34 @@
     }
   },
   {
+    "part of speech": {
+      "__pos": "noun",
+      "__tags": ["grammar", "parts of speech"],
+      "__icon_text": "pos",
+      "plural": "parts of speech",
+      "word": "part of speech",
+      "translation_note": "",
+      "examples": [
+        "Parts of speech are categories of words in grammar.",
+        "Nouns, verbs, and adjectives are different parts of speech."
+      ]
+    }
+  },
+  {
+    "pronoun": {
+      "__pos": "noun",
+      "__tags": ["grammar", "parts of speech"],
+      "__icon_text": "pron.",
+      "word": "pronoun",
+      "plural": "pronouns",
+      "translation_note": "",
+      "examples": [
+        "A pronoun replaces a noun in a sentence.",
+        "Words like 'he', 'she', and 'they' are pronouns."
+      ]
+    }
+  },
+  {
     "play": {
       "__pos": "verb",
       "__tags": ["verbs"],
@@ -6989,6 +7066,20 @@
       },
       "translation_note": "",
       "examples": ["Put the book on the table.", "She put on her coat."]
+    }
+  },
+  {
+    "proper noun": {
+      "__pos": "noun",
+      "__tags": ["grammar", "parts of speech"],
+      "__icon_text": "PN",
+      "word": "proper noun",
+      "plural": "proper nouns",
+      "translation_note": "",
+      "examples": [
+        "A proper noun names a specific person, place, or thing.",
+        "Words like 'John', 'Sunday', 'January', 'Seattle', and 'Costco' are proper nouns."
+      ]
     }
   },
   {
@@ -7389,6 +7480,20 @@
         "She is sitting in the chair."
       ],
       "translation_note": ""
+    }
+  },
+  {
+    "noun": {
+      "__pos": "noun",
+      "__tags": ["grammar", "parts of speech"],
+      "__icon_text": "noun",
+      "word": "noun",
+      "plural": "nouns",
+      "translation_note": "",
+      "examples": [
+        "A noun is a word that names a person, place, thing, or idea.",
+        "Words like 'cat', 'school', and 'happiness' are nouns."
+      ]
     }
   },
 
@@ -8624,6 +8729,20 @@
       "examples": [
         "I will email you the report.",
         "She is emailing her professor."
+      ]
+    }
+  },
+  {
+    "common noun": {
+      "__pos": "noun",
+      "__tags": ["grammar", "parts of speech"],
+      "__icon_text": "cn",
+      "word": "common noun",
+      "plural": "common nouns",
+      "translation_note": "",
+      "examples": [
+        "A common noun names any person, place, or thing.",
+        "Words like 'dog', 'city', and 'book' are common nouns."
       ]
     }
   },
