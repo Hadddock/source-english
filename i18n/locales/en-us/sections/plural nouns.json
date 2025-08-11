@@ -50,12 +50,20 @@
     "__type": "subheader",
     "text": "Irregular Plurals"
   },
+
   {
     "_id": "plural_nouns_irregular_paragraph",
     "__lessons": ["plural nouns"],
     "__order": 5,
     "__type": "paragraph",
     "text": "Some nouns have irregular plural forms that don't follow the standard rules. These must be memorized."
+  },
+  {
+    "_id": "plural_nouns_irregular_carousel",
+    "__lessons": ["plural nouns"],
+    "__order": 5.5,
+    "__type": "vocabularyCarousel",
+    "__words": ["person", "child", "man", "woman", "foot", "tooth", "fish"]
   },
   {
     "_id": "plural_nouns_irregular_table",

@@ -1,0 +1,303 @@
+[
+  {
+    "_id": "parts_of_speech_1_header",
+    "__lessons": ["parts of speech 1"],
+    "__order": 1,
+    "__type": "header",
+    "text": "Parts of Speech 1: Nouns, Adjectives, and Verbs"
+  },
+  {
+    "_id": "parts_of_speech_1_intro",
+    "__lessons": ["parts of speech 1"],
+    "__order": 2,
+    "__type": "paragraph",
+    "text": "Parts of speech are different types of words that help us build sentences. Today we will learn about four important parts of speech: nouns, pronouns, adjectives, and verbs."
+  },
+  {
+    "_id": "parts_of_speech_1_vocab_carousel",
+    "__lessons": ["parts of speech 1"],
+    "__order": 3,
+    "__type": "vocabularyCarousel",
+    "__words": ["parts of speech", "noun", "pronoun", "adjective", "verb"]
+  },
+  {
+    "_id": "parts_of_speech_1_nouns_subheader",
+    "__lessons": ["parts of speech 1"],
+    "__order": 4,
+    "__type": "header",
+    "text": "Nouns"
+  },
+  {
+    "_id": "parts_of_speech_1_nouns_paragraph",
+    "__lessons": ["parts of speech 1"],
+    "__order": 5,
+    "__type": "paragraph",
+    "text": "Nouns are words that name people, places, things, or ideas. They answer the question 'what?' or 'who?'"
+  },
+  {
+    "_id": "parts_of_speech_1_nouns_carousel",
+    "__lessons": ["parts of speech 1"],
+    "__order": 5.1,
+    "__type": "vocabularyCarousel",
+    "__words": ["noun", "cat", "house", "book", "teacher", "park"]
+  },
+  {
+    "_id": "parts_of_speech_1_nouns_examples",
+    "__lessons": ["parts of speech 1"],
+    "__order": 6,
+    "__type": "table",
+    "headers": ["Type", "Examples"],
+    "rows": [
+      ["People", "teacher, student, doctor, mother"],
+      ["Places", "school, park, kitchen, city"],
+      ["Things", "book, car, phone, chair"],
+      ["Ideas", "happiness, love, freedom, time"]
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_proper_nouns_subheader",
+    "__lessons": ["parts of speech 1"],
+    "__order": 7,
+    "__type": "subheader",
+    "text": "Proper Nouns"
+  },
+  {
+    "_id": "parts_of_speech_1_proper_nouns_paragraph",
+    "__lessons": ["parts of speech 1"],
+    "__order": 8,
+    "__type": "paragraph",
+    "text": "Proper nouns are special nouns that name specific people, places, or things. They always start with a capital letter."
+  },
+  {
+    "_id": "parts_of_speech_1_proper_nouns_carousel",
+    "__lessons": ["parts of speech 1"],
+    "__order": 8.1,
+    "__type": "vocabularyCarousel",
+    "__words": [
+      "proper noun",
+      "John",
+      "Mary",
+      "Monday",
+      "Seattle",
+      "English",
+      "May"
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_proper_nouns_examples",
+    "__lessons": ["parts of speech 1"],
+    "__order": 9,
+    "__type": "table",
+    "headers": ["Type", "Examples"],
+    "rows": [
+      ["Names of people", "John, Mary, Dr. Smith"],
+      ["Names of places", "New York, Paris, Main Street"],
+      ["Days and months", "Monday, January, Christmas"],
+      ["Languages", "English, Spanish, French"]
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_common_vs_proper",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10,
+    "__type": "table",
+    "headers": ["Common Noun", "Proper Noun"],
+    "rows": [
+      ["city", "New York"],
+      ["person", "John"],
+      ["day", "Monday"],
+      ["language", "English"],
+      ["school", "Harvard University"]
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_pronouns_subheader",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10.5,
+    "__type": "header",
+    "text": "Pronouns"
+  },
+  {
+    "_id": "parts_of_speech_1_pronouns_paragraph",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10.6,
+    "__type": "paragraph",
+    "text": "Pronouns are words that take the place of nouns. Instead of repeating the same noun over and over, we can use pronouns to make our sentences smoother."
+  },
+  {
+    "_id": "parts_of_speech_1_pronouns_carousel",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10.7,
+    "__type": "vocabularyCarousel",
+    "__words": [
+      "pronoun",
+      "I_(pronoun)",
+      "you",
+      "he",
+      "she",
+      "it",
+      "we",
+      "they"
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_pronouns_examples",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10.8,
+    "__type": "table",
+    "headers": ["Type", "Examples"],
+    "rows": [
+      ["Subject pronouns", "I, you, he, she, it, we, they"],
+      ["Object pronouns", "me, you, him, her, it, us, them"],
+      ["Possessive pronouns", "mine, yours, his, hers, ours, theirs"]
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_pronoun_sentences",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10.9,
+    "__type": "quote",
+    "text": "John is a teacher. He works at a school."
+  },
+  {
+    "_id": "parts_of_speech_1_pronoun_sentences_3",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10.94,
+    "__type": "quote",
+    "text": "Kim is a teacher. She is happy."
+  },
+  {
+    "_id": "parts_of_speech_1_pronoun_sentences_2",
+    "__lessons": ["parts of speech 1"],
+    "__order": 10.95,
+    "__type": "quote",
+    "text": "The students are studying. They have a test tomorrow."
+  },
+
+  {
+    "_id": "parts_of_speech_1_adjectives_subheader",
+    "__lessons": ["parts of speech 1"],
+    "__order": 11,
+    "__type": "header",
+    "text": "Adjectives"
+  },
+  {
+    "_id": "parts_of_speech_1_adjectives_paragraph",
+    "__lessons": ["parts of speech 1"],
+    "__order": 12,
+    "__type": "paragraph",
+    "text": "Adjectives are words that describe nouns. They tell us what something is like. They answer questions like 'what kind?', 'which one?', or 'how many?'"
+  },
+  {
+    "_id": "parts_of_speech_1_adjectives_carousel",
+    "__lessons": ["parts of speech 1"],
+    "__order": 12.1,
+    "__type": "vocabularyCarousel",
+    "__words": [
+      "adjective",
+      "big",
+      "small",
+      "red",
+      "happy",
+      "beautiful",
+      "favorite"
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_adjectives_examples",
+    "__lessons": ["parts of speech 1"],
+    "__order": 13,
+    "__type": "table",
+    "headers": ["Type", "Examples"],
+    "rows": [
+      ["Size", "big, small, large, tiny"],
+      ["Color", "red, blue, green, yellow"],
+      ["Feelings", "happy, sad, angry, excited"],
+      ["Shape", "round, square, long, short"],
+      ["Quality", "beautiful, ugly, good, bad"]
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_adjective_sentences",
+    "__lessons": ["parts of speech 1"],
+    "__order": 14,
+    "__type": "quote",
+    "text": "The big dog is running."
+  },
+  {
+    "_id": "parts_of_speech_1_adjective_sentences_2",
+    "__lessons": ["parts of speech 1"],
+    "__order": 14.1,
+    "__type": "quote",
+    "text": "She has a red car."
+  },
+  {
+    "_id": "parts_of_speech_1_adjective_sentences_3",
+    "__lessons": ["parts of speech 1"],
+    "__order": 14.2,
+    "__type": "quote",
+    "text": "The happy children are playing."
+  },
+  {
+    "_id": "parts_of_speech_1_adjective_sentences_4",
+    "__lessons": ["parts of speech 1"],
+    "__order": 14.2,
+    "__type": "quote",
+    "text": "Pizza is my favorite food."
+  },
+  {
+    "_id": "parts_of_speech_1_verbs_subheader",
+    "__lessons": ["parts of speech 1"],
+    "__order": 15,
+    "__type": "header",
+    "text": "Verbs"
+  },
+  {
+    "_id": "parts_of_speech_1_verbs_paragraph",
+    "__lessons": ["parts of speech 1"],
+    "__order": 16,
+    "__type": "paragraph",
+    "text": "Verbs are action words or words that show what someone or something is doing. They can also show states of being."
+  },
+  {
+    "_id": "parts_of_speech_1_verbs_carousel",
+    "__lessons": ["parts of speech 1"],
+    "__order": 16.1,
+    "__type": "vocabularyCarousel",
+    "__words": ["verb", "be", "have", "run", "jump", "read", "write", "think"]
+  },
+  {
+    "_id": "parts_of_speech_1_verbs_examples",
+    "__lessons": ["parts of speech 1"],
+    "__order": 17,
+    "__type": "table",
+    "headers": ["Type", "Examples"],
+    "rows": [
+      ["Action verbs", "run, jump, eat, write, sing"],
+      ["Thinking verbs", "think, know, understand, remember"],
+      ["Being verbs", "be, am, is, are, seem"],
+      ["Having verbs", "have, has, own, possess"]
+    ]
+  },
+  {
+    "_id": "parts_of_speech_1_verb_sentences",
+    "__lessons": ["parts of speech 1"],
+    "__order": 18,
+    "__type": "quote",
+    "text": "The cat runs fast."
+  },
+  {
+    "_id": "parts_of_speech_1_verb_sentences_2",
+    "__lessons": ["parts of speech 1"],
+    "__order": 18.1,
+    "__type": "quote",
+    "text": "I read books every day."
+  },
+  {
+    "_id": "parts_of_speech_1_verb_sentences_3",
+    "__lessons": ["parts of speech 1"],
+    "__order": 18.2,
+    "__type": "quote",
+    "text": "She is a teacher."
+  }
+]

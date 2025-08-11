@@ -483,19 +483,45 @@
       "__type": "lesson",
       "__order": 27.5,
       "__hidden": false,
-      "intro": "Learn the rules for making nouns plural in English by understanding how different word endings change."
+      "__vocab_lesson": "plural nouns vocab",
+      "__vocab": {
+        "display": [
+          "noun",
+          "plural",
+          "irregular",
+          "man",
+          "foot",
+          "tooth",
+          "woman",
+          "person",
+          "child",
+          "fish"
+        ]
+      }
     }
   },
+
   {
-    "irregular plural nouns vocab": {
-      "name": "irregular plural nouns vocab",
-      "__tags": ["irregular plurals"],
+    "plural nouns vocab": {
+      "name": "plural nouns vocab",
+      "__tags": ["plural nouns"],
       "__type": "vocabulary",
       "__order": 44,
-      "__hidden": false,
+      "__hidden": true,
       "__vocab": {
         "irregular and plural": ["irregular", "plural"],
-        "display": ["man", "foot", "tooth", "woman", "person", "child", "fish"],
+        "display": [
+          "noun",
+          "plural",
+          "irregular",
+          "man",
+          "foot",
+          "tooth",
+          "woman",
+          "person",
+          "child",
+          "fish"
+        ],
         "nouns with irregular plurals": [
           "man",
           "foot",
@@ -530,32 +556,6 @@
         ],
         "classroom people": ["teacher", "student"],
         "classroom verbs": ["read", "speak", "write", "listen", "ask"]
-      }
-    }
-  },
-
-  {
-    "feelings vocab": {
-      "name": "feelings vocab",
-      "__tags": ["feelings"],
-      "__type": "vocabulary",
-      "__order": 5.4,
-      "__hidden": false,
-      "__vocab": {
-        "feelings": [
-          "feel",
-          "happy",
-          "sad",
-          "angry",
-          "scared",
-          "confused",
-          "hungry",
-          "tired",
-          "fine",
-          "sick",
-          "hot",
-          "cold"
-        ]
       }
     }
   },
@@ -733,7 +733,7 @@
       "name": "verbs vocab",
       "__tags": ["verbs"],
       "__type": "vocabulary",
-      "__order": 14.7,
+      "__order": 22.1,
       "__hidden": false,
       "__vocab": {
         "verbs": [
@@ -789,6 +789,60 @@
           "pay",
           "sell"
         ]
+      }
+    }
+  },
+  {
+    "parts of speech 1": {
+      "name": "parts of speech 1",
+      "__tags": ["grammar", "parts of speech", "nouns", "adjectives", "verbs"],
+      "__type": "lesson",
+      "__order": 26.5,
+      "__hidden": false,
+
+      "__vocab_lesson": "parts of speech 1 vocab"
+    }
+  },
+  {
+    "parts of speech 1 vocab": {
+      "name": "parts of speech 1 vocab",
+      "__tags": ["grammar", "parts of speech", "nouns", "adjectives", "verbs"],
+      "__type": "vocabulary",
+      "__order": 22.1,
+      "__hidden": true,
+      "__lesson": "parts of speech 1",
+      "__vocab": {
+        "display": ["noun", "adjective", "verb", "proper noun", "pronoun"],
+        "parts of speech": [
+          "parts of speech",
+          "noun",
+          "proper noun",
+          "pronoun",
+          "adjective",
+          "verb"
+        ],
+
+        "nouns": ["noun", "cat", "house", "book", "teacher", "park"],
+        "proper nouns": ["proper noun", "Seattle", "Monday", "May", "English"],
+        "pronouns": [
+          "pronoun",
+          "I_(pronoun)",
+          "you",
+          "he",
+          "she",
+          "it",
+          "we",
+          "they"
+        ],
+        "adjectives": [
+          "adjective",
+          "big",
+          "small",
+          "red",
+          "happy",
+          "beautiful"
+        ],
+        "verbs": ["verb", "run", "jump", "read", "write", "think"]
       }
     }
   },
