@@ -95,5 +95,19 @@
       { "__type": "text", "text": "fish" },
       { "__type": "text", "text": "fish" }
     ]
+  },
+  {
+    "_id": "plural_nouns_video_header",
+    "__lessons": ["plural nouns"],
+    "__order": 7,
+    "__type": "header",
+    "text": "Video: Plural Nouns"
+  },
+  {
+    "_id": "plural_nouns_video",
+    "__lessons": ["plural nouns"],
+    "__order": 8,
+    "__type": "video",
+    "__src": "https://www.youtube.com/watch?v=L4B7XxuJO6A"
   }
 ]

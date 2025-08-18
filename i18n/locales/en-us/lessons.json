@@ -1104,11 +1104,19 @@
   {
     "prepositions of time vocab": {
       "name": "prepositions of time vocab",
+      "header": "Prepositions of Time Vocabulary",
       "__tags": ["prepositions of time"],
       "__type": "vocabulary",
       "__order": 34,
       "__lesson": "prepositions of time",
-      "__hidden": false
+      "__hidden": false,
+      "__vocab": {
+        "prepositions of time": [
+          "in_(preposition_of_time)",
+          "on_(preposition_of_time)",
+          "at_(preposition_of_time)"
+        ]
+      }
     }
   },
 
@@ -1126,6 +1134,18 @@
         "people descriptions": ["rich", "poor"],
         "symbols": ["dollar sign", "cent sign", "decimal point"]
       }
+    }
+  },
+
+  {
+    "prepositions of time": {
+      "name": "prepositions of time",
+      "__tags": ["prepositions of time", "grammar", "time"],
+      "__type": "lesson",
+      "__order": 33.5,
+      "__hidden": false,
+
+      "__vocab_lesson": "prepositions of time vocab"
     }
   },
   {

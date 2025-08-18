@@ -17,6 +17,7 @@ import adverbsOfFrequencySections from '@/i18n/locales/en-us/sections/adverbs of
 import illnessesSections from '@/i18n/locales/en-us/sections/illnesses.json';
 import pluralNounsSections from '@/i18n/locales/en-us/sections/plural nouns.json';
 import partsOfSpeech1Sections from '@/i18n/locales/en-us/sections/parts of speech 1.json';
+import prepositionsOfTimeSections from '@/i18n/locales/en-us/sections/prepositions of time.json';
 
 const sectionsData = [
   ...yesOrNoQuestionsSections,
@@ -34,6 +35,7 @@ const sectionsData = [
   ...illnessesSections,
   ...pluralNounsSections,
   ...partsOfSpeech1Sections,
+  ...prepositionsOfTimeSections,
 ];
 import vocabularyData from '@/i18n/locales/en-us/vocabulary.json';
 import VocabCard from '@/components/VocabCard';

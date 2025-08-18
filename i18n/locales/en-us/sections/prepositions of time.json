@@ -1,0 +1,238 @@
+[
+  {
+    "_id": "prepositions_of_time_header",
+    "__lessons": ["prepositions of time"],
+    "__order": 1,
+    "__type": "header",
+    "text": "Prepositions of Time: in, at, on"
+  },
+  {
+    "_id": "prepositions_of_time_intro",
+    "__lessons": ["prepositions of time"],
+    "__order": 2,
+    "__type": "paragraph",
+    "text": "We use the prepositions in, at, and on to talk about time. Each one is used in different situations."
+  },
+
+  {
+    "_id": "prepositions_of_time_mastertable",
+    "__lessons": ["prepositions of time"],
+    "__order": 3.1,
+    "__type": "table",
+    "header": "Master Table: Prepositions of Time",
+    "__headers": [
+      { "text": "Preposition", "__type": "text" },
+      { "text": "Use with...", "__type": "text" },
+      { "text": "Examples", "__type": "text" }
+    ],
+    "__entries": [
+      { "__type": "text", "text": "in" },
+      { "__type": "text", "text": "Months, Years, Seasons, Parts of the day" },
+      {
+        "__type": "text",
+        "text": "in January, in 2025, in summer, in the morning, in the afternoon"
+      },
+      { "__type": "text", "text": "on" },
+      { "__type": "text", "text": "Days, Dates" },
+      { "__type": "text", "text": "on Monday, on August 18" },
+      { "__type": "text", "text": "at" },
+      {
+        "__type": "text",
+        "text": "Clock times, Noon, Midnight, Holidays (some cases)"
+      },
+      {
+        "__type": "text",
+        "text": "at 7:00, at noon, at midnight, at Christmas"
+      }
+    ]
+  },
+  {
+    "_id": "prepositions_of_time_carousel",
+    "__lessons": ["prepositions of time"],
+    "__order": 3,
+    "__type": "vocabularyCarousel",
+    "__words": [
+      "in_(preposition_of_time)",
+      "at_(preposition_of_time)",
+      "on_(preposition_of_time)"
+    ]
+  },
+  {
+    "_id": "prepositions_of_time_in_subheader",
+    "__lessons": ["prepositions of time"],
+    "__order": 4,
+    "__type": "subheader",
+    "text": "in"
+  },
+  {
+    "_id": "prepositions_of_time_in_carousel",
+    "__lessons": ["prepositions of time"],
+    "__order": 4.1,
+    "__type": "vocabularyCarousel",
+    "__words": ["in_(preposition_of_time)"]
+  },
+  {
+    "_id": "prepositions_of_time_in_paragraph",
+    "__lessons": ["prepositions of time"],
+    "__order": 5,
+    "__type": "paragraph",
+    "text": "Use 'in' for months, years, seasons, the morning, and the afternoon."
+  },
+  {
+    "_id": "prepositions_of_time_in_examples",
+    "__lessons": ["prepositions of time"],
+    "__order": 6,
+    "__type": "table",
+    "__headers": [
+      { "text": "Use 'in' with...", "__type": "text" },
+      { "text": "Example", "__type": "text" }
+    ],
+    "__entries": [
+      { "__type": "text", "text": "Months" },
+      { "__type": "text", "text": "in January\nin May" },
+      { "__type": "text", "text": "Years" },
+      { "__type": "text", "text": "in 2025\nin 1999" },
+      { "__type": "text", "text": "Seasons" },
+      { "__type": "text", "text": "in spring\nin summer\nin fall\nin winter" },
+
+      { "__type": "text", "text": "the morning" },
+      { "__type": "text", "text": "in the morning" },
+      { "__type": "text", "text": "the afternoon" },
+      { "__type": "text", "text": "in the afternoon" }
+    ]
+  },
+  {
+    "_id": "prepositions_of_time_in_examples_sentences_1",
+    "__lessons": ["prepositions of time"],
+    "__order": 6.1,
+    "__type": "quote",
+    "text": "My birthday is in May."
+  },
+  {
+    "_id": "prepositions_of_time_in_examples_sentences_2",
+    "__lessons": ["prepositions of time"],
+    "__order": 6.2,
+    "__type": "quote",
+    "text": "We go on vacation in summer."
+  },
+  {
+    "_id": "prepositions_of_time_on_subheader",
+    "__lessons": ["prepositions of time"],
+    "__order": 7,
+    "__type": "subheader",
+    "text": "on"
+  },
+  {
+    "_id": "prepositions_of_time_on_carousel",
+    "__lessons": ["prepositions of time"],
+    "__order": 7.1,
+    "__type": "vocabularyCarousel",
+    "__words": ["on_(preposition_of_time)"]
+  },
+  {
+    "_id": "prepositions_of_time_on_paragraph",
+    "__lessons": ["prepositions of time"],
+    "__order": 8,
+    "__type": "paragraph",
+    "text": "Use 'on' for days and dates."
+  },
+  {
+    "_id": "prepositions_of_time_on_examples",
+    "__lessons": ["prepositions of time"],
+    "__order": 9,
+    "__type": "table",
+    "__headers": [
+      { "text": "Use 'on' with...", "__type": "text" },
+      { "text": "Example", "__type": "text" }
+    ],
+    "__entries": [
+      { "__type": "text", "text": "Days" },
+      { "__type": "text", "text": "on Monday\non Friday" },
+      { "__type": "text", "text": "Dates" },
+      { "__type": "text", "text": "on August 18\non January 1st" }
+    ]
+  },
+  {
+    "_id": "prepositions_of_time_on_examples_sentences_1",
+    "__lessons": ["prepositions of time"],
+    "__order": 9.1,
+    "__type": "quote",
+    "text": "The meeting is on Monday."
+  },
+  {
+    "_id": "prepositions_of_time_on_examples_sentences_2",
+    "__lessons": ["prepositions of time"],
+    "__order": 9.2,
+    "__type": "quote",
+    "text": "My party is on August 18th."
+  },
+  {
+    "_id": "prepositions_of_time_at_subheader",
+    "__lessons": ["prepositions of time"],
+    "__order": 10,
+    "__type": "subheader",
+    "text": "at"
+  },
+  {
+    "_id": "prepositions_of_time_at_carousel",
+    "__lessons": ["prepositions of time"],
+    "__order": 10.1,
+    "__type": "vocabularyCarousel",
+    "__words": ["at_(preposition_of_time)"]
+  },
+  {
+    "_id": "prepositions_of_time_at_paragraph",
+    "__lessons": ["prepositions of time"],
+    "__order": 11,
+    "__type": "paragraph",
+    "text": "Use 'at' for specific times."
+  },
+  {
+    "_id": "prepositions_of_time_at_examples",
+    "__lessons": ["prepositions of time"],
+    "__order": 12,
+    "__type": "table",
+    "__headers": [
+      { "text": "Use 'at' with...", "__type": "text" },
+      { "text": "Example", "__type": "text" }
+    ],
+    "__entries": [
+      { "__type": "text", "text": "Clock times" },
+      { "__type": "text", "text": "at 7:00" },
+      { "__type": "text", "text": "Noon" },
+      { "__type": "text", "text": "at noon" },
+      { "__type": "text", "text": "Midnight" },
+      { "__type": "text", "text": "at midnight" },
+      { "__type": "text", "text": "Holidays (some cases)" },
+      { "__type": "text", "text": "at Christmas\nat Easter" }
+    ]
+  },
+  {
+    "_id": "prepositions_of_time_at_examples_sentences_1",
+    "__lessons": ["prepositions of time"],
+    "__order": 12.1,
+    "__type": "quote",
+    "text": "The bus leaves at 7:00."
+  },
+  {
+    "_id": "prepositions_of_time_at_examples_sentences_2",
+    "__lessons": ["prepositions of time"],
+    "__order": 12.2,
+    "__type": "quote",
+    "text": "We eat lunch at noon."
+  },
+  {
+    "_id": "prepositions_of_time_video_header",
+    "__lessons": ["prepositions of time"],
+    "__order": 14,
+    "__type": "header",
+    "text": "Video: Prepositions of Time"
+  },
+  {
+    "_id": "prepositions_of_time_video",
+    "__lessons": ["prepositions of time"],
+    "__order": 15,
+    "__type": "video",
+    "__src": "https://www.youtube.com/watch?v=fRrVkXG0-v4"
+  }
+]
