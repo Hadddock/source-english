@@ -108,6 +108,7 @@ import Gray from '@/assets/icons/licensed/gray.svg'; // Example for a custom ico
 import Black from '@/assets/icons/licensed/black.svg';
 import ColorIcon from '@/assets/icons/licensed/color.svg'; // Example for a custom icon
 import ColorWheelIcon from '@/assets/icons/licensed/color_wheel.svg'; // Example for a custom icon
+
 import HusbandIcon from '@/assets/icons/licensed/husband.svg'; // Add this import
 import WifeIcon from '@/assets/icons/licensed/wife.svg'; // Add this import
 import MarriedIcon from '@/assets/icons/licensed/married.svg'; // Add this
@@ -293,8 +294,11 @@ import PersonIcon from '@/assets/icons/licensed/person.svg'; // Add this import
 import BoyIcon from '@/assets/icons/licensed/boy.svg'; // Add this import
 import GirlIcon from '@/assets/icons/licensed/girl.svg'; // Add this import
 import BabyIcon from '@/assets/icons/licensed/baby.svg'; // Add this import
+import BrushNounIcon from '@/assets/icons/licensed/brush_(noun).svg'; // Example for a custom icon
+import BrushVerbIcon from '@/assets/icons/licensed/brush_(verb).svg'; // Example for
 
 import WhiteboardIcon from '@/assets/icons/licensed/whiteboard.svg'; // Example for a custom icon
+import GetDressedIcon from '@/assets/icons/licensed/get_dressed.svg'; // Example for a custom icon
 
 import React from 'react';
 import { View, Text } from 'react-native';
@@ -826,6 +830,8 @@ export const iconMap: Record<string, React.FC<any>> = {
   ask: AskIcon,
   cry: CryIcon,
   brush: BrushIcon,
+  'brush_(noun)': BrushNounIcon,
+  'brush_(verb)': BrushVerbIcon,
   drink: DrinkIcon,
   drive: DriveIcon,
   eat: EatIcon,
@@ -1280,6 +1286,7 @@ export const iconMap: Record<string, React.FC<any>> = {
   friendly: FriendlyIcon, // Example for a custom icon
   shy: ShyIcon, // Example for a custom icon
   sorry: SorryIcon, // Example for a custom icon
+  'get dressed': GetDressedIcon,
 
   // ...etc
 };

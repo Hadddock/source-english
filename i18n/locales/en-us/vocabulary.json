@@ -4521,6 +4521,7 @@
     "shower": {
       "__pos": "verb",
       "__tags": ["verbs"],
+      "__synonyms": ["take a shower"],
 
       "word": "shower",
       "conjugation": {
@@ -7991,7 +7992,7 @@
     "in_(preposition_of_time)": {
       "__pos": "preposition",
       "__tags": ["prepositions of time"],
-      "__objectKey": "in_(preposition of time)",
+      "__objectKey": "in_(preposition_of_time)",
       "__icon_text": "in",
       "word": "in",
       "examples": [
@@ -8005,7 +8006,7 @@
     "at_(preposition_of_time)": {
       "__pos": "preposition",
       "__tags": ["prepositions of time"],
-      "__objectKey": "at_(preposition of time)",
+      "__objectKey": "at_(preposition_of_time)",
       "__icon_text": "at",
       "word": "at",
       "examples": [
@@ -8019,8 +8020,8 @@
     "on_(preposition_of_time)": {
       "__pos": "preposition",
       "__tags": ["prepositions of time"],
-      "__objectKey": "on (preposition of time)",
-
+      "__objectKey": "on_(preposition_of_time)",
+      "__icon_text": "on",
       "word": "on",
       "examples": [
         "My birthday is on Monday.",
@@ -10534,6 +10535,72 @@
         "Sorry, I'm late.",
         "I'm sorry for the mistake.",
         "Sorry, I didn't hear you."
+      ]
+    }
+  },
+  {
+    "brush_(noun)": {
+      "__pos": "noun",
+      "__tags": ["tools", "cleaning"],
+      "__objectKey": "brush_(noun)",
+      "word": "brush",
+      "plural": "brushes",
+      "examples": [
+        "I need a brush for my hair.",
+        "She uses a brush to clean her shoes."
+      ]
+    }
+  },
+  {
+    "brush_(verb)": {
+      "__pos": "verb",
+      "__tags": ["actions", "cleaning"],
+      "__objectKey": "brush_(verb)",
+      "conjugation": {
+        "present": "brush",
+        "present_participle": "brushing",
+        "past": "brushed"
+      },
+      "word": "brush",
+      "examples": [
+        "I brush my hair every morning.",
+        "I brush my teeth twice a day.",
+        "She brushes the dust off the shelf."
+      ]
+    }
+  },
+  {
+    "get dressed": {
+      "__pos": "verb",
+      "__tags": ["actions", "daily routines"],
+      "conjugation": {
+        "present": "get dressed",
+        "present_participle": "getting dressed",
+        "past": "got dressed"
+      },
+
+      "word": "get dressed",
+      "examples": [
+        "I get dressed quickly in the morning.",
+        "She likes to get dressed before breakfast.",
+        "He always gets dressed for work."
+      ]
+    }
+  },
+  {
+    "clean": {
+      "__pos": "verb",
+      "__tags": ["actions", "cleaning"],
+      "word": "clean",
+      "conjugation": {
+        "present": "clean",
+        "present_participle": "cleaning",
+        "past": "cleaned"
+      },
+      "examples": [
+        "I need to clean my room.",
+        "She cleans the house every Saturday.",
+        "He is cleaning the kitchen right now."
       ]
     }
   }
