@@ -10484,5 +10484,57 @@
         "She has three cousins."
       ]
     }
+  },
+  {
+    "excuse me": {
+      "__pos": "exclamation",
+      "__tags": ["politeness", "apologies"],
+      "word": "excuse me",
+      "translation_note": "",
+      "examples": [
+        "Excuse me, can you help me?",
+        "Excuse me, I didn't mean to interrupt.",
+        "Excuse me, where is the restroom?"
+      ]
+    }
+  },
+  {
+    "friendly": {
+      "__pos": "adjective",
+      "__tags": ["personality"],
+      "word": "friendly",
+      "translation_note": "",
+      "examples": [
+        "She is very friendly.",
+        "The staff are friendly and helpful.",
+        "He has a friendly smile."
+      ]
+    }
+  },
+  {
+    "shy": {
+      "__pos": "adjective",
+      "__tags": ["personality"],
+      "word": "shy",
+      "translation_note": "",
+      "examples": [
+        "He is shy around new people.",
+        "She was too shy to speak.",
+        "The child is shy but kind."
+      ]
+    }
+  },
+  {
+    "sorry": {
+      "__pos": "exclamation",
+      "__tags": ["apologies", "politeness"],
+      "word": "sorry",
+      "translation_note": "",
+      "examples": [
+        "Sorry, I'm late.",
+        "I'm sorry for the mistake.",
+        "Sorry, I didn't hear you."
+      ]
+    }
   }
 ]

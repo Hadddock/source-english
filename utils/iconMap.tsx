@@ -1,6 +1,10 @@
 import CardsIcon from '@/assets/icons/licensed/cards.svg';
 import LessonIcon from '@/assets/icons/licensed/lesson.svg';
 import EnglishIcon from '@/assets/icons/licensed/english.svg';
+import FriendlyIcon from '@/assets/icons/licensed/friendly.svg';
+import ExcuseMeIcon from '@/assets/icons/licensed/excuse_me.svg';
+import ShyIcon from '@/assets/icons/licensed/shy.svg';
+import SorryIcon from '@/assets/icons/licensed/sorry.svg';
 import FavoriteIcon from '@/assets/icons/licensed/favorite.svg';
 import GrandparentIcon from '@/assets/icons/licensed/grandparent.svg';
 import GrandfatherIcon from '@/assets/icons/licensed/grandfather.svg';
@@ -1272,6 +1276,10 @@ export const iconMap: Record<string, React.FC<any>> = {
   English: EnglishIcon,
   english: EnglishIcon, // Example for a custom icon
   favorite: FavoriteIcon, // Example for a custom icon
+  'excuse me': ExcuseMeIcon, // Example for a custom icon
+  friendly: FriendlyIcon, // Example for a custom icon
+  shy: ShyIcon, // Example for a custom icon
+  sorry: SorryIcon, // Example for a custom icon
 
   // ...etc
 };
